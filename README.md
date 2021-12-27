@@ -1,2 +1,3 @@
 # halotionals
-Nifla Maiden Commercial Project
+World's First CMS for Daily Devotionals
+https://halotionals.com
